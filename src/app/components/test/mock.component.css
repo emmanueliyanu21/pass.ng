@@ -1,0 +1,83 @@
+.mock-r1 {
+    background-color: #fff;
+    border-radius: 4px;
+    padding: 20px 30px 10px 30px!important;
+    margin-bottom: 30px;
+}
+
+.mock-r1 h2 {
+    font-size: 25px!important;
+    color: #2d3e50;
+    font-family: ABeeZee, sans-serif;
+    font-weight: 650;
+}
+
+.mock-r1 p {
+    color: #86a51b!important;
+    font-family: ABeeZee, sans-serif;
+    font-style: normal;
+    font-size: 14px
+}
+
+.mock-back {
+    background-color: #d9d6d6!important;
+}
+
+.form-check input[type="checkbox"] {
+    /* outline: 3px solid #86a51b!important;
+    background-color: #fff!important;
+    border-radius: 4px!important; */
+}
+
+.form-check-input {
+    border: 1px solid #86a51b!important;
+}
+
+.form-check label {
+    font-size: 14px!important;
+    font-family: ABeeZee, sans-serif;
+    color: #343434;
+}
+
+.mock-fed {
+    padding-top: 30px;
+}
+
+.white {
+    padding-left: 60px;
+    padding-right: 60px;
+}
+
+.mock-x1 {
+    background-color: #fff!important;
+    padding: 10px 30px 10px 30px;
+    border-radius: 5px;
+    border: 1px solid #d5d5d5;
+}
+
+.mock-b12 {
+    padding-bottom: 20px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.mock-continue {
+    text-align: center!important;
+    padding-bottom: 20px;
+}
+
+.btn-mock-continue {
+    background-color: #86a51b!important;
+    color: #fff;
+    padding: 15px 15px;
+    font-family: ABeeZee, sans-serif;
+}
+
+.btn-mock-continue:hover {
+    background-color: #000000;
+    -webkit-transition: background 1.2s ease;
+    -moz-transition: background 1.2s ease;
+    -ms-transition: background 1.2s ease;
+    -o-transition: background 1.2s ease;
+    transition: background 1.2s ease;
+}

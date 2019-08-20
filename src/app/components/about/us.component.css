@@ -1,0 +1,156 @@
+.faq-g12 {
+    background-color: #86a51b;
+}
+
+.faq-top h2 {
+    text-align: center;
+    padding: 40px 0px;
+    color: #fff;
+    font-weight: 500;
+    font-family: ABeeZee, sans-serif;
+    letter-spacing: 1.2;
+    font-size: 24px;
+    margin-bottom: 0px!important;
+}
+
+.faq-g13 {
+    background-color: #ebebeb;
+    margin-top: 0px!important;
+}
+
+.faq-tp h2 {
+    text-align: center;
+    padding: 60px 0px;
+    color: #343a3f;
+    font-weight: 500;
+    font-family: ABeeZee, sans-serif;
+    line-height: 1.6!important;
+    letter-spacing: 1.0px;
+    font-size: 24px;
+}
+
+.inner-message {
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+
+.address-content .m1 {
+    color: #86a51b;
+    font-size: 18px;
+    font-family: ABeeZee, sans-serif;
+    font-weight: 650;
+    padding-top: 15px;
+}
+
+.address-content .m2 {
+    font-family: ABeeZee, san-serif;
+    font-size: 14px;
+    margin-bottom: 0px!important;
+}
+
+.address-content {
+    text-align: center;
+}
+
+.address-content .m3 {
+    font-family: ABeeZee, san-serif;
+    font-size: 14px;
+}
+
+.address-content .m4 {
+    font-family: ABeeZee, san-serif;
+    font-size: 14px;
+    margin-top: 10px;
+    font-weight: 650;
+    margin-bottom: 0px!important;
+}
+
+.address-content .m5 {
+    font-family: ABeeZee, san-serif;
+    font-size: 14px;
+}
+
+.address-message .m1 {
+    color: #86a51b;
+    font-size: 24px;
+    font-family: ABeeZee, sans-serif;
+    padding-top: 15px;
+}
+
+.address-message .m2 {
+    font-family: ABeeZee, san-serif;
+    font-size: 14px;
+    margin-bottom: 0px!important;
+}
+
+.address-message {
+    text-align: left;
+}
+
+.form-body {
+    padding-top: 10px;
+}
+
+.form-body label {
+    font-size: 12px;
+    font-family: ABeeZee, sans-serif;
+    color: #7b8088;
+}
+
+.form-body {
+    max-width: 80%;
+}
+
+.btn-submit {
+    background-color: #86a51b;
+    color: #fff;
+    border-radius: 0px!important;
+    font-size: 16px;
+    /* padding: 4px 2px; */
+}
+
+.form-body span {
+    font-size: 12px;
+    font-family: ABeeZee, sans-serif;
+    color: #7b8088;
+    padding-right: 12px;
+}
+
+.group {
+    padding-bottom: 25px;
+    padding-top: 10px;
+}
+
+.connect {
+    background-color: #86a51b;
+}
+
+.con-r1 {
+    padding: 45px 0px 25px 0px;
+}
+
+.ul-con li {
+    list-style: none;
+    display: inline;
+    margin-right: 25px;
+    color: #fff;
+}
+
+.ul-con .fa {
+    font-size: 42px;
+}
+
+.ul-con .fa:hover {
+    color: #5f750e!important;
+    cursor: pointer;
+}
+
+.ul-con li a {
+    color: #fff;
+}
+
+.con-r1 h2 {
+    color: #fff;
+    text-align: right;
+    font-size: 22px;
+}

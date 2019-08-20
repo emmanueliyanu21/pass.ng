@@ -1,0 +1,59 @@
+    .port-lf {
+        background-color: #f7f7f7!important;
+        border: 1px solid #f8f8f8;
+        box-shadow: 0px 0px 2px 0px #e4e4e4;
+        max-width: 70%;
+        margin: auto;
+    }
+    
+    .leaf-rx {
+        background-color: #f9f9f9!important;
+    }
+    
+    .leaf-fx {
+        text-align: center!important;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+    
+    .leaf-r1 .leaf-a1 {
+        font-size: 28px;
+        padding-bottom: 10px!important;
+        padding-top: 20px!important;
+        font-family: ABeeZee, sans-serif;
+        color: #343a3f;
+    }
+    
+    .leaf-r1 .leaf-b2 {
+        font-size: 15px;
+        padding-bottom: 0px!important;
+        font-family: ABeeZee, sans-serif;
+    }
+    
+    .leaf-r1 .leaf-c12 {
+        font-size: 12px;
+        font-family: ABeeZee, sans-serif;
+    }
+    
+    .leaf-r1 {
+        text-align: center!important;
+    }
+    
+    .btn-leaf {
+        margin-top: 5px;
+        margin-bottom: 25px;
+        color: #fff;
+        font-size: 20px;
+        background-color: #86a51b!important;
+        padding: 12px 35px;
+        font-family: ABeeZee, sans-serif;
+    }
+    
+    .jmt-r1 {
+        text-align: center;
+    }
+    
+    .jmt-r1 form {
+        max-width: 40%;
+        margin: auto;
+    }

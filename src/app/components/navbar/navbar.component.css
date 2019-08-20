@@ -1,0 +1,124 @@
+/*navbar starts here */
+
+.navbar {
+    background-color: #fff!important;
+    padding-top: 0px!important;
+    padding-bottom: 0px!important;
+}
+
+.nav li a {
+    color: #343a3f!important;
+    font-family: ABeeZee, san-serif;
+    font-size: 12px!important;
+    letter-spacing: 1.8px;
+    font-weight: 400;
+    margin-right: 35px;
+}
+
+.nav li a .fa {
+    font-size: 9px;
+    color: #86a51b!important;
+}
+
+.dropdown-toggle:after {
+    content: none
+}
+
+.nav li a:hover {
+    text-decoration: none;
+}
+
+.dropdown-menu .dropdown-item {
+    text-align: center;
+    padding-right: 5px!important;
+    padding-left: 5px!important;
+    font-family: ABeeZee, san-serif;
+}
+
+.white {
+    padding-left: 60px!important;
+}
+
+.navbar-nav {
+    padding-right: 60px!important;
+}
+
+.nav .dropdown-menu a {
+    color: #7b8088!important;
+    padding-top: 10px!important;
+    padding-bottom: 10px!important;
+    font-size: 13px!important;
+    border-bottom: 1px solid #efe;
+    letter-spacing: 1.0px!important;
+}
+
+.nav .dropdown-menu a:hover {
+    color: #fff!important;
+}
+
+.dropdown-menu a:hover {
+    background-color: #86a51b!important;
+    color: #fff!important;
+}
+
+.btn-login {
+    background-color: #fff!important;
+    border-color: #86a51b!important;
+    color: #343a3f!important;
+    font-family: ABeeZee, sans-serif;
+    font-size: 14px!important;
+    letter-spacing: 0.8px;
+    font-weight: 400;
+}
+
+.btn-login:hover {
+    background-color: #86a51b!important;
+    color: #fff!important;
+}
+
+.navbar-toggler {
+    border: 1px solid #94b71d;
+}
+
+.button-label {
+    display: inline-block;
+    float: left;
+    font-weight: bold;
+    font-size: 12px;
+    line-height: 14px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    color: #192c40 !important;
+}
+
+.button-bars {
+    display: inline-block;
+    float: left;
+}
+
+.iconbar {
+    background-color: #94b71d;
+}
+
+@media (max-width: 768px) {
+    .navbar-nav li {
+        text-align: center!important;
+    }
+    .navbar-nav li a:hover {
+        background-color: #1fb7f0!important;
+        color: #000!important;
+    }
+    .navbar-nav li a {
+        margin-right: 0px!important;
+    }
+    .white {
+        padding: 0px 20px!important;
+    }
+    .right-ft {
+        margin-left: 0px!important;
+    }
+}
+
+
+/*navbar ends here */
